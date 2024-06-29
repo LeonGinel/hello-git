@@ -6,7 +6,13 @@ public class HolaGit {
 		
 		// Esto es algo lioso kbsa
 		System.out.println("Hola git");
-
+		
+		// Y ahora modifico otra vez
+		for (int i = 0; i<=10; i++) {
+			if (i%2==0)
+				System.out.println(i);
+		}
+			
 	}
 
 }
