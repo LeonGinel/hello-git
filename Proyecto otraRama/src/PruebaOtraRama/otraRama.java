@@ -6,7 +6,7 @@ public class otraRama {
 		
 		System.out.println("Esto es otra rama del proyecto");
 		
-		System.out.println("Seguimos probando cositas");
+		System.out.println("Seguimos probando cositas v1");
 
 	}
 
