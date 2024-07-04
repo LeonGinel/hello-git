@@ -6,8 +6,7 @@ public class HolaGit3 {
 		
 		System.out.println("Hola git 3 con cambios");
 		
-		System.out.println("Hola git 3 v2");
-
+		System.out.println("Hola git 3 v1");
 	}
 
 }
