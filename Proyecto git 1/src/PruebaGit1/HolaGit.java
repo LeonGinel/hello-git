@@ -5,7 +5,7 @@ public class HolaGit {
 	public static void main(String[] args) {
 		
 		// Esto es algo lioso kbsa
-		System.out.println("Hola git");
+		System.out.println("Hola github");
 		
 		// Y ahora modifico otra vez
 		for (int i = 0; i<=10; i++) {
